@@ -17,3 +17,6 @@ my_friends_name2 = "Gega"
 
 print(my_name + my_friends_name + my_friends_name2)
 
+print("luka")
+
+print('34' + '10')
