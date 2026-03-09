@@ -100,3 +100,7 @@ fahrenheit = (celsius * 9/5) + 32
 cooling_system = fahrenheit > 89.6
 
 print(cooling_system)
+
+num = 0
+while num <6:
+    print(num)
